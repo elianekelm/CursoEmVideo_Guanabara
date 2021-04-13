@@ -1,4 +1,4 @@
-print(f'\033[1:33m{" DESAFIO 049 " :*^40}\033[m')
+print(f'\033[1:33m{" DESAFIO 050 " :*^40}\033[m')
 soma = 0
 cont = 0
 for i in range(1, 7):
